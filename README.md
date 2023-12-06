@@ -12,3 +12,5 @@ Repositório para armazenar resumos sobre Git e GitHub do curso de Versionamento
 |----------|------|
 
 | Gravando alterações no Repositório local | [Resumo]
+
+## Este repositório testa o envio de gits, pelo git bash
